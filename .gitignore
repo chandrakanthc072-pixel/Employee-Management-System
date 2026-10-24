@@ -1,0 +1,21 @@
+
+# React / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# Java / Maven / IntelliJ
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/.env
+backend/.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
