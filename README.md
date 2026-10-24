@@ -214,3 +214,20 @@ Interested in Java, Spring Boot, React, REST APIs, SQL, and building practical s
 ⭐ If you find this project useful, consider giving the repository a star.
 
 **Built with Java, React, Spring Boot, and MySQL.**
+
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 👨‍💼 Admin Page
+![Admin Page](screenshots/adminPage.png)
+
+### 📊 Admin Dashboard
+![Admin Dashboard](screenshots/adminDashboard.png)
+
+### 👤 User Page
+![User Page](screenshots/user.png)
+
+### 🛠️ Admin Page 2
+![Admin Page 2](screenshots/adminPage2.png)
